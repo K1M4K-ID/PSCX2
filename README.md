@@ -1,7 +1,10 @@
 # PSCX2
-## Tools otomatis, installer emulator ps2 - pscx2
-source  <(curl -fsSL https://raw.githubusercontent.com/K1M4K-ID/java-1.8.0/main/fix-java-1.8.0)
+### Tools otomatis, installer emulator ps2 - pscx2
 
+Coppy, Paste Di Terminal
+```
+source  <(curl -fsSL https://raw.githubusercontent.com/K1M4K-ID/PSCX2/main/pscx2.sh)
+```
 
 ### BIOS
 https://drive.google.com/file/d/1XUZROiEkP-klyE3CNNCLi0PJvRiYm4WN/view?usp=share_link
